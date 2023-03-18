@@ -7,6 +7,6 @@
 
 <h3><b>About me</b></h3>
 
-<p>I recently completed my MSc in Computer Science at the University of Copenhagen after a BSc on the same topic from Roma Tre University. 
+<p>I hold an MSc in Computer Science from the University of Copenhagen and a BSc on the same topic from Roma Tre University. 
 
 My professional experience covers multiple roles related to software development, with a focus on cloud infrastructures. I also enjoy discussing on macroeconomics, city mobility and sports.
